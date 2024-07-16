@@ -1,8 +1,7 @@
 
 ### Sobre⚡
 
-- 🎓 &nbsp; Cursando Ciência da Computação
-- 🌱 &nbsp; Aprendendo Javascript, NodeJs, Typescript, React, dentre outras tecnologias na [Rocketseat](https://rocketseat.com.br/)
+- 🌱 &nbsp; Me especialisando em Javascript, NodeJs, Typescript, React, e outras techs
 
 <h3 align="center">
   💜📚
