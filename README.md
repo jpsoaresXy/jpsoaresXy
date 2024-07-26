@@ -1,7 +1,7 @@
 
 ### Sobre⚡
 
-- 🌱 &nbsp; Me especialisando em Javascript, NodeJs, Typescript, React, e outras techs
+- 🌱 &nbsp; Me especialisando na tech stack Javascript (NextJS, React, React Native, NodeJS, ...)
 
 <h3 align="center">
   💜📚
