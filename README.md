@@ -1,7 +1,13 @@
 
-### Sobre⚡
+### About me⚡
 
-- 🌱 &nbsp; I'm specializing in Javascript, with React, React Native, NodeJs, etc.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It%27s+Jo%C3%A3o!;I%27m+a+FullStack+Developer)](https://git.io/typing-svg)
+
+<h3 align="center">
+    My name is João Pedro. I'm 25 years old, Brazilian, and I'm a INFJ. I'm a full-stack developer passionate about technologie and how it can help society. Enthusiast of technology, games, and nerdy world.
+</h3>
+
+- 🌱 &nbsp; I'm specializing in Javascript stack, with React, React Native, NodeJs, etc.
 
 <h3 align="center">
   💜📚
@@ -40,3 +46,13 @@
   <a href="https://www.linkedin.com/in/jp-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+#### ⚡ Hobbies
+
+- 📚 Fantasy books;
+- 🎮 RPG PC games;
+- 🎧 Listening a good music;
+- 🎬 Watch Movies and TV Shows(I'm curently watching Fundation, that's based in Asimov's novel);
+- 🐈 Play with my evil cat;
+
+---
