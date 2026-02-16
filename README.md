@@ -52,7 +52,7 @@
 - 📚 Fantasy books;
 - 🎮 RPG PC games;
 - 🎧 Listening a good music;
-- 🎬 Watch Movies and TV Shows(I'm curently watching Fundation, that's based in Asimov's novel);
+- 🎬 Watch Movies and TV Shows(I'm curently watching Foundation, based in Asimov's novel);
 - 🐈 Play with my evil cat;
 
 ---
